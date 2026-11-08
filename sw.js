@@ -1,4 +1,4 @@
-const CACHE = 'tsdq-1.8.0-202611072342';   // 由 tools/发布新版本.py 自动更新
+const CACHE = 'tsdq-1.8.1-202611081120';   // 由 tools/发布新版本.py 自动更新
 const SHELL = ['./', 'index.html', 'style.css', 'manifest.webmanifest', 'icon.svg', 'icon-192.png', 'icon-512.png',
   'js/app.js', 'js/store.js', 'js/sync.js', 'js/crypto.js', 'js/stats.js', 'js/charts.js', 'js/timeline.js', 'js/importer.js',
   'js/ui.js', 'js/search.js', 'js/reminders.js', 'js/version.js'];
